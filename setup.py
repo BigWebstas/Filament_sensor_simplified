@@ -21,7 +21,7 @@ plugin_version = "0.2.4"
 plugin_description = """Simple plugin reacting to filament sensor, issuing filament change gcode to printer on filament runout"""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Lukáš Malatinský"
+plugin_author = "Lukáš Malatinský - Updated by bigWebstas"
 
 # The plugin's author's mail address.
 plugin_author_email = "luckyx182@gmail.com"
