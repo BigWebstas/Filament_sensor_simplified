@@ -27,7 +27,7 @@ plugin_author = "Lukáš Malatinský - Updated by bigWebstas"
 plugin_author_email = "luckyx182@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/luckyx182/Filament_sensor_simplified"
+plugin_url = "https://github.com/BigWebstas/Filament_sensor_simplified"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
