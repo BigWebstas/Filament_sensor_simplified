@@ -24,7 +24,7 @@ class Filament_sensor_simplifiedPlugin(octoprint.plugin.StartupPlugin,
 	loaded = False
 
 	# bounce time for sensing
-	bounce_time = 7000
+	bounce_time = 15000
 
 	# pin number used as plugin disabled
 	pin_num_disabled = 0
